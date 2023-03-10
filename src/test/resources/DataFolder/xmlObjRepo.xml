@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjRepo>
+<name>username</name>
+<pass>password</pass>
+<btn>radius</btn>
+<msg>.flash.success</msg>
+</ObjRepo>
